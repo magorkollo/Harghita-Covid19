@@ -1,0 +1,1867 @@
+budapest,869
+cluj napoca,812
+targu mures,600
+bucharest,194
+london,175
+rome,115
+brasov,113
+sfantu gheorghe,95
+timisoara,56
+madrid,46
+bacau,35
+kecskemet,34
+nagy-varad,34
+reghin,32
+vienna,32
+szeged,32
+brasso,31
+oradea,30
+arad,29
+mosonmagyarovar,29
+sighișoara,29
+gyor,28
+sopron,26
+munich,26
+lajosmizse,25
+szekesfehervar,25
+debrecen,25
+porumbenii mari,24
+iasi,24
+erd,22
+pecs,21
+milan,21
+piatra neamt,20
+frankfurt,20
+szombathely,20
+irbil,20
+sovata,19
+brussels,19
+csikszentmàrton,18
+turin,18
+paris,17
+bistrita,17
+bogoz,16
+sibiu,16
+kaposvar,16
+temesvar,15
+palermo,13
+new york,13
+targu secuiesc,13
+los angeles,13
+tatabanya,13
+zurich,12
+dublin,12
+roman,12
+subcetate,11
+miskolc,11
+stuttgart,11
+deva,11
+kiskunfelegyhaza,11
+leipzig,11
+toronto,11
+eger,11
+baraolt,11
+szigetszentmiklos,11
+lleida,11
+reghinul,11
+vecses,10
+stockholm,10
+liverpool,10
+oroszlany,9
+stanceni,9
+ljungby,9
+bekescsaba,9
+dunaharaszti,9
+lueta,9
+cegled,9
+hodosa,9
+kerepes,9
+chicago,9
+berlin,9
+florence,8
+biatorbagy,8
+oslo,8
+augsburg,8
+veszprem,8
+dunakeszi,8
+linz,8
+kerekegyhaza,8
+maldon,8
+szentendre,8
+manchester,8
+athens,8
+galati,8
+graz,8
+oradea-mare,8
+nyiregyhaza,8
+cuneo,8
+warrington,8
+focsani,8
+hamburg,7
+budakeszi,7
+bologna,7
+erdoszentgyorgy,7
+bristol,7
+csatoszeg,7
+aprilia,7
+gyal,7
+ingolstadt,7
+ghimes-faget,7
+covasna,7
+reading,7
+nuremberg,7
+spoleto,7
+onesti,7
+vac,7
+calgary,6
+verona,6
+malmo,6
+ciobotani,6
+bilbor,6
+budafok,6
+hajduszoboszlo,6
+mangalia,6
+amsterdam,6
+szazhalombatta,6
+kolding,6
+budaors,6
+cologne,6
+northampton,6
+naples,6
+bournemouth,6
+weinfelden,6
+finnoy,6
+szatmar,6
+ipswich,6
+valencia,6
+debreczen,6
+zalau,6
+alba iulia,6
+constanta,6
+angyalfold,5
+bielefeld,5
+logrono,5
+trnava,5
+pecel,5
+pomaz,5
+douglas,5
+arezzo,5
+dabas,5
+guildford,5
+godollo,5
+barlad,5
+salzburg,5
+zuglo,5
+oxford,5
+dubai,5
+lunca bradului,5
+balastya,5
+dunaujvaros,5
+paphos,5
+chipping norton,5
+bognor regis,5
+baia mare,5
+gelsenkirchen,5
+monor,5
+pilis,5
+lugo,5
+honolulu,5
+szatmar-nemeti,5
+papa,4
+trento,4
+barcelona,4
+birmingham,4
+loubille,4
+martinis,4
+halasztelek,4
+hodmezovasarhely,4
+maglod,4
+brescia,4
+sankt georgen im attergau,4
+tata,4
+saarbrucken,4
+bicske,4
+mogyorod,4
+solvesborg,4
+gyulafehervar,4
+tarnok,4
+pest,4
+fot,4
+tusnad furdo,4
+szada,4
+ajka,4
+schifferstadt,4
+copenhagen,4
+tapolca,4
+buzau,4
+targu-neamt,4
+lakitelek,4
+soltvadkert,4
+kiskoros,4
+elsdorf,4
+nimes,4
+csik-kozmas,4
+reutlingen,4
+ibiza,4
+mostoles,4
+anzio,4
+medias,4
+steenbergen,4
+ploiesti,4
+kistelek,4
+innsbruck,4
+pascani,4
+mako,4
+sulmona,4
+plăieșii de jos,4
+carei,4
+ladispoli,4
+bremen,4
+larnaca,4
+rackeve,4
+nagyszalonta,4
+gyomro,4
+sala,4
+prague,4
+bocsa,4
+gyula,4
+the hague,3
+l'aquila,3
+sarvar,3
+rakospalota,3
+taplanszentkereszt,3
+harlau,3
+szil,3
+genzano di roma,3
+istanbul,3
+vasluiul,3
+antwerp,3
+yeovil,3
+suceava,3
+witten,3
+botosani,3
+chibed,3
+lacedonia,3
+dej,3
+ancona,3
+basingstoke,3
+plymouth,3
+metz,3
+glasgow,3
+braunschweig,3
+plattling,3
+dusseldorf,3
+ketsoprony,3
+caiazzo,3
+tripoli,3
+limassol,3
+fagaras,3
+pecol,3
+caspe,3
+tomorkeny,3
+freiburg,3
+huttenberg,3
+caserta,3
+pforzheim,3
+tecuci,3
+palma de mallorca,3
+toalmas,3
+soroksar,3
+zaragoza,3
+anzano di puglia,3
+kalocsa,3
+nice,3
+veresegyhaz,3
+lund,3
+strovelstorp,3
+ortigueira,3
+braila,3
+sindelfingen,3
+odense,3
+bern,3
+capalbio,3
+mainz,3
+tarnaveni,3
+ravenna,3
+bratislava,3
+giessen,3
+wiesbaden,3
+ahus,3
+ocsa,3
+gyongyos,3
+tivoli,3
+norwich,3
+manresa,3
+vaslab,3
+dunabogdany,3
+zalaegerszeg,3
+leonberg,3
+devavanya,3
+agerskov,3
+galanta,3
+nagyrede,3
+ramnicu valcea,3
+calvi,3
+neustadt an der aisch,3
+atlanta,3
+zalaszanto,3
+miercurea nirajului,3
+pesterzsebet,3
+comanesti,3
+skipton,3
+mutterstadt,3
+tillsonburg,3
+soskut,3
+visegrad,3
+isaszeg,3
+woking,3
+balatonfured,3
+helvecia,3
+jaszarokszallas,3
+ludus,3
+cambridge,3
+mindszent,3
+linkoping,3
+vaslui,3
+hemel hempstead,3
+god,3
+panciu,3
+siofok,3
+diosig,3
+bucuresti,3
+marseille,3
+mantua,3
+ercsi,3
+chelmsford,3
+mannheim,3
+ramnicul sarat,3
+aiud,3
+krakow,3
+szentes,3
+monteprandone,3
+csongrad,3
+cascais,3
+kistarcsa,3
+micfalău,3
+mellid,3
+sângeorgiu de mureș,3
+neumarkt am mieresch,3
+szekszard,3
+bergamo,3
+szigethalom,3
+morahalom,3
+bozod,3
+ghindari,3
+sighetu marmatiei,3
+newry,3
+padua,3
+mor,3
+rieti,3
+bekasmegyer,3
+schweitenkirchen,2
+botesti,2
+stinceni,2
+bagnacavallo,2
+montagnareale,2
+mersin,2
+nagy-szeben,2
+acilia,2
+toulouse,2
+sebes,2
+lazarfalva,2
+santa ninfa,2
+cernavoda,2
+schliengen,2
+campina,2
+kisujszallas,2
+fredrikstad,2
+jackson,2
+lucerne,2
+cleveland,2
+tusnad sat,2
+farmos,2
+sarteano,2
+hunedoara,2
+reichenschwand,2
+halmstad,2
+szolnok,2
+budakalasz,2
+ferrara,2
+tiszaalpar,2
+haifa,2
+ledbury,2
+mariapocs,2
+varpalota,2
+sigmaringen,2
+maintal,2
+seattle,2
+targu-sacuesc,2
+ingelheim,2
+kisgorbo,2
+jerusalem,2
+boston,2
+bugyi,2
+logumkloster,2
+keszthely,2
+ho chi minh city,2
+boblingen,2
+march,2
+carzago della riviera,2
+cremona,2
+jabbeke,2
+fieberbrunn,2
+lingen,2
+schliersee,2
+bottmersdorf,2
+bruck an der mur,2
+nagykanizsa,2
+katerini,2
+gutersloh,2
+wellington,2
+heidelberg,2
+tapiosuly,2
+tuttlingen,2
+viveiro,2
+bremerhaven,2
+lecce,2
+alessandria,2
+kelenfold,2
+beclean,2
+hatvan,2
+gelence,2
+surabaya,2
+torboszlo,2
+aragona,2
+unterlaus,2
+moldova noua,2
+motru,2
+pittsburgh,2
+washington,2
+meerbusch,2
+pilismarot,2
+assens,2
+olasz,2
+piove di sacco,2
+ascoli piceno,2
+edmonton,2
+tulcea,2
+ungheni,2
+siklos,2
+hernad,2
+getafe,2
+folkestone,2
+kitchener,2
+thanville,2
+lamongan,2
+frosinone,2
+modena,2
+dresden,2
+eskilstuna,2
+heviz,2
+campoleone,2
+santa barbara,2
+vatra dornei,2
+leganes,2
+petrosani,2
+hanoi,2
+holstebro,2
+moinesti,2
+dortmund,2
+moscow,2
+zakanyszek,2
+hamm,2
+hanau,2
+galautasi,2
+neustadt an der weinstrasse,2
+lulea,2
+tapiosag,2
+montecatini terme,2
+la pobla llarga,2
+hejls,2
+gardony,2
+alunis,2
+elche,2
+foggia,2
+oberaula,2
+nagykend,2
+brighton,2
+corbu,2
+murfatlar,2
+mestera,2
+exeter,2
+jakabszallas,2
+kremsmunster,2
+bercel,2
+mohacs,2
+poole,2
+erbach,2
+sannicolau mare,2
+bajstrup,2
+schwerin,2
+lausanne,2
+chamonix,2
+greensboro,2
+cartojani,2
+staffelbach,2
+daubersbach,2
+chorges,2
+damme,2
+bernalda,2
+edinburgh,2
+sandnessjoen,2
+varmezo,2
+berezeni,2
+cham,2
+liphook,2
+ardeal,2
+rosenheim,2
+messina,2
+komlo,2
+pavia,2
+lamezia,2
+toms river,2
+szombatnely,2
+bissegg,2
+szentkiraly,2
+eschenz,2
+acapulco,2
+towcester,2
+nordling,2
+vancouver,2
+chur,2
+larnaka,2
+grenoble,2
+avon,2
+bartonville,2
+altstatten,2
+calan,2
+almeria,2
+ferencvaros,2
+tahitofalu,2
+branderup,2
+schkeuditz,2
+valeni,2
+langendernbach,2
+aradi,2
+markgroningen,2
+geneva,2
+roeselare,2
+haderslev,2
+abony,2
+burdwan,2
+ludwigsburg,2
+zwolle,2
+coventry,2
+coslada,2
+sovata bai,2
+fano,2
+etyek,2
+tiszaujvaros,2
+vicenza,2
+cardiff,2
+kibed,2
+erd-parkvaros,2
+jaszbereny,2
+adjud,2
+jiboul,2
+ujtusnad,2
+andwil,2
+tapioszele,2
+cervia,2
+banbury,2
+lengerich,2
+kunszentmarton,2
+ludwigshafen,2
+diosd,2
+prato,2
+sfintu gheorghe,2
+durgapur,2
+ponta delgada,2
+kreuzlingen,2
+sydney,2
+ockley,2
+domonyvolgy,2
+bonn,2
+cosenza,2
+albertirsa,2
+las vegas,2
+fiumicino,2
+nienhagen,2
+aarhus,2
+snaebum,2
+worcester,2
+landshut,2
+paks,2
+esbjerg,2
+tauplitz,2
+mezomadaras,2
+taksony,2
+bucuresti-noi,2
+leipheim,2
+itala,2
+frankenthal,2
+falticeni,2
+cloppenburg,2
+handeloh,2
+abu dhabi,2
+maidstone,2
+essen,2
+anagni,2
+koszeg,2
+fort lauderdale,2
+turda,2
+troyes,2
+city of bradford,2
+southampton,2
+edewechterdamm,2
+wurzburg,2
+kiskunlachaza,2
+bokod,1
+saddle brook,1
+haren,1
+satu mare,1
+cori,1
+hayes,1
+topolcany,1
+korinth,1
+siklodi oldal,1
+oriszentpeter,1
+șimleu silvaniei,1
+gold coast,1
+spittal,1
+kenez,1
+capelle aan den ijssel,1
+bergneustadt,1
+tolentino,1
+hitchin,1
+nusfalau,1
+vetschau,1
+kesswil,1
+hallstahammar,1
+laholm,1
+harrisburg,1
+traryd,1
+szasz regen,1
+vegegyhaza,1
+grasse,1
+sao benedito do sul,1
+janossomorja,1
+sarbogard,1
+mullheim,1
+klagenfurt,1
+herisau,1
+swanscombe,1
+helsingborg,1
+kassel,1
+lindhorst,1
+boldog,1
+rozavlea,1
+citta di castello,1
+korosszegapati,1
+sarkad,1
+schluchtern,1
+buda,1
+netphen,1
+proseken,1
+olaszfa,1
+brunn am gebirge,1
+griesheim,1
+szar,1
+giugliano in campania,1
+aknaszlatina,1
+wels,1
+aldershot,1
+santana-de-mures,1
+aosta,1
+castle bromwich,1
+sevilla la nueva,1
+treviso,1
+akaszto,1
+leuven,1
+caporal alexa,1
+las palmas de gran canaria,1
+benediktbeuern,1
+csorna,1
+mansfield,1
+arrild,1
+dachau,1
+baja,1
+woerden,1
+lubeck,1
+rimini,1
+newent,1
+timbuktu,1
+sukosd,1
+nyaradto,1
+nasaud,1
+stia,1
+kormend,1
+ovada,1
+gingen,1
+jayapura,1
+kelowna,1
+calimanesti,1
+dozsa gyorgy,1
+tirgu secuiesc,1
+blaj,1
+ujszentmargita,1
+enns (town),1
+cherechiu,1
+gromitz,1
+tarnaors,1
+lopadea noua,1
+manhattan,1
+szendehely,1
+szegedin,1
+folsom,1
+kobanya,1
+rustenschwil,1
+laudun,1
+oftersheim,1
+gap,1
+bradford,1
+herning,1
+23 august,1
+corbasca,1
+swazini,1
+tarcau,1
+ahlen,1
+zagon,1
+vallby,1
+paralim,1
+szentgotthard,1
+rosendahl,1
+oroshazi,1
+oensingen,1
+ulles,1
+mikofalva,1
+marina di ginosa,1
+ibanesti,1
+pfungstadt,1
+niederaula,1
+palm beach,1
+remshalden,1
+castelfranco veneto,1
+erbiceni,1
+nazareth illit,1
+chiddingfold,1
+san vito al tagliamento,1
+magyaro,1
+heusden,1
+grossenlinden,1
+bicaz chei,1
+grosskarolinenfeld,1
+reussbuhl,1
+baranya,1
+croydon,1
+virginia beach,1
+magyarboly,1
+szenttamas,1
+mondolfo,1
+bayreuth,1
+braunau,1
+miesbach,1
+ipolydamasd,1
+saint gallen,1
+bernecebarati,1
+hellevad,1
+flasch,1
+torda,1
+kotcse,1
+aberdeen,1
+dalnok,1
+bukkszentkereszt,1
+villach,1
+dealu morii,1
+rovinari,1
+ludwigshafen am rhein-oppau,1
+rignano flaminio,1
+matamoros,1
+mucsfa,1
+harpsden,1
+saint-etienne,1
+vadu moldovei,1
+canada corners,1
+stenild,1
+ebreichsdorf,1
+varsag,1
+ayia napa,1
+pusztakovacsi,1
+bassersdorf,1
+kocser,1
+poiana marului,1
+raiano,1
+massa lombarda,1
+miliana,1
+ashland,1
+adelmannsfelden,1
+dunakiliti,1
+coroisanmartin,1
+columbus,1
+teremia mare,1
+zagyvaszanto,1
+barnsley,1
+kronstadt,1
+temerin,1
+delemont,1
+targu jiu,1
+penge,1
+arganda del rey,1
+macerata,1
+ealing,1
+erdokertes,1
+lake harmony,1
+lauffen,1
+fuhlendorf,1
+ajkarendek,1
+herceghalom,1
+strasshof an der nordbahn,1
+vairano patenora,1
+bishops stortford,1
+acerenza,1
+marstetten,1
+sahy,1
+potenza,1
+langnau,1
+abaujszanto,1
+dunavarsany,1
+salerno,1
+springfield,1
+zele,1
+eforie nord,1
+osli,1
+bowness-on-windermere,1
+sulz am neckar,1
+knutsford,1
+muhlhausen,1
+berssel,1
+farad,1
+kosching,1
+malsch,1
+cesena,1
+altavilla silentina,1
+mina sarmasag,1
+chisineu cris,1
+saronno,1
+menzingen,1
+bracknell,1
+babensham,1
+gyepukajan,1
+sarmellek,1
+grafing bei munchen,1
+tresigallo,1
+menidi,1
+hawaiian paradise park,1
+brovst,1
+meckenheim,1
+christchurch,1
+roubaix,1
+storkow,1
+chessington,1
+mont-sur-marchienne,1
+kemecse,1
+gilau,1
+neckarsulm,1
+assisi,1
+kirchheim bei munchen,1
+coldau,1
+ballymena,1
+vocklabruck,1
+karachi,1
+leuk stadt,1
+feuchtwangen,1
+giurgiu,1
+wunstorf,1
+luna de sus,1
+bistra muresului,1
+soci,1
+iernut,1
+solymar,1
+le sentier,1
+raubling,1
+singen,1
+kerzers,1
+paingeni,1
+pusztavam,1
+torino di sangro,1
+pelifoldszentkereszt,1
+borjora,1
+laguna beach,1
+pitvaras,1
+uganda,1
+kazincbarcika,1
+komando,1
+band,1
+berzunti,1
+pilisvorosvar,1
+redhill,1
+peiraeus,1
+steckborn,1
+lagartera,1
+konigstein im taunus,1
+italia,1
+bodajk,1
+stamora germana,1
+fermoy,1
+aulla,1
+quezon city,1
+amantea,1
+abano terme,1
+ardeoani,1
+saravale,1
+peregu mare,1
+gandia,1
+sacramento,1
+sfantul-gheorghe,1
+woodbridge,1
+tapioszecso,1
+treto,1
+sofia,1
+chieri,1
+puchheim,1
+ujszeged,1
+minneapolis,1
+ashford,1
+brad,1
+formia,1
+heidenheim,1
+demorest,1
+nagytarcsa,1
+ishoj,1
+philadelphia,1
+orgovany,1
+aurora,1
+dragugesti,1
+felso szeli,1
+gunzesried,1
+beromunster,1
+vardomb,1
+ladanybene,1
+svitavy,1
+houghton regis,1
+agnita,1
+campi bisenzio,1
+campeni,1
+merano,1
+nyaradkoszvenyes,1
+albacete,1
+chisinau,1
+quebec,1
+genova,1
+saregres,1
+kirchdorf in tirol,1
+rho,1
+baden,1
+opusztaszer,1
+jonkoping,1
+zimnicea,1
+brusturoasa,1
+csaszartoltes,1
+schwabisch gmund,1
+castro-urdiales,1
+king's lynn,1
+leonhardsbusch,1
+vellinge,1
+hanover,1
+pauleni-ciuc,1
+san giovanni a piro,1
+eggendorf im traunkreis,1
+trets,1
+san diego,1
+ujudvar,1
+reggio di calabria,1
+krefeld,1
+helsinki,1
+bogata,1
+codlea,1
+uricani,1
+san benedetto del tronto,1
+odobesti,1
+resita romina,1
+niederhelfenschwil,1
+langreder,1
+be'er ya`aqov,1
+kfar saba,1
+fraga,1
+puerto de la cruz,1
+budateteny,1
+bad reichenhall,1
+nogradmegyer,1
+balloszog,1
+teruel,1
+lagos,1
+nagyvarsany,1
+fogaras,1
+stavanger,1
+asti,1
+tavazzano con villavesco,1
+gyuro,1
+bacsalmas,1
+crespellano,1
+budajeno,1
+catalina,1
+perl,1
+spielberg bei knittelfeld,1
+reggio nell'emilia,1
+goppingen-jebenhausen,1
+pontremoli,1
+kerepestarcsa,1
+latina,1
+le brassus,1
+misentea,1
+frauenfeld,1
+belapatfalva,1
+domaszek,1
+buren an der aare,1
+mechelen,1
+barrio de manresa,1
+mezofele,1
+mockmuhl,1
+bugac,1
+medolla,1
+kotzting,1
+nicoresti,1
+chauveheid,1
+kradolf,1
+bergen,1
+pirbright,1
+althutte,1
+bensheim,1
+weymouth,1
+craiova,1
+el ejido,1
+bad kreuznach,1
+emskirchen,1
+hollywood,1
+nagycenk,1
+pusztaszabolcs,1
+kennedy town,1
+sannazzaro de' burgondi,1
+kottingbrunn,1
+knittelfeld,1
+wipperfurth,1
+muschenheim,1
+sittingbourne,1
+kismaros,1
+mariastein,1
+mamming,1
+vecs,1
+pusztafoldvar,1
+sarmasu,1
+penarth,1
+bad ragaz,1
+neuenkirch,1
+bataan,1
+rusii-munti,1
+allershausen,1
+floridsdorf,1
+mallnitz,1
+campodenno,1
+domancy,1
+bietigheim-bissingen,1
+alcala de henares,1
+castellon,1
+poggio moiano,1
+torrente,1
+grinties,1
+urechesti,1
+fucine,1
+ta' xbiex,1
+maros vecs,1
+ujronafo,1
+lentfohrden,1
+vacegres,1
+bardolino,1
+rasice,1
+sannicolaul mare,1
+peresznye,1
+cerignola,1
+bereczk,1
+turje,1
+homburg,1
+hamilton,1
+vasszentmihaly,1
+aalborg,1
+connahs quay,1
+vonitsa,1
+guelph,1
+vimodrone,1
+pohlheim,1
+hamikon,1
+molde,1
+ringwood,1
+frankenmarkt,1
+telki,1
+a coruna,1
+porsgrunn,1
+tarquinia,1
+trumau,1
+shotton,1
+felsolajos,1
+pietrastornina,1
+oberschlatt,1
+norre broby,1
+ciro marina,1
+bilbao,1
+geisenhausen,1
+riedlingen,1
+sacele,1
+sion,1
+bernwies,1
+segrate,1
+vohringen,1
+ostoros,1
+uzonkafurdo,1
+lima,1
+kaposfo,1
+cotnari,1
+kecel,1
+stamford,1
+danszentmiklos,1
+villigen,1
+hosszupalyi,1
+csolyospalos,1
+nagysimonyi,1
+saint brelade,1
+offenbach,1
+strass,1
+surany,1
+salem,1
+sangeorgiu-de-padure,1
+monchengladbach,1
+udine,1
+st helens,1
+reghin-sat,1
+perpignan,1
+pitesti,1
+szotyor,1
+carignano,1
+kornye,1
+kossen,1
+maksa,1
+zalaapati,1
+courtavant,1
+dudelsheim,1
+bad voslau,1
+vaitape,1
+nora,1
+babana,1
+rakoczifalva,1
+nyaregyhaza,1
+papateszer,1
+dorog,1
+trieste,1
+schwieberdingen,1
+lubbenau,1
+hainfeld,1
+seleus,1
+muhlenbach,1
+grazzanise,1
+solihull,1
+fes el bali,1
+zug,1
+waat,1
+gyulafiratot,1
+fetesti,1
+gurghiu,1
+csepel,1
+newport,1
+sarzana,1
+qiryat ono,1
+heinsberg,1
+kebele,1
+uberlingen,1
+fieri,1
+zilah,1
+lousa,1
+honselersdijk,1
+ullo,1
+fadd,1
+szigetvar,1
+livingston,1
+lakihegy,1
+maros,1
+brielle,1
+gibraleon,1
+lorenskog,1
+paralimni,1
+zoppola,1
+harmasfalu,1
+nitra,1
+domat ems,1
+valmontone,1
+hidegkut,1
+nyergesujfalu,1
+bohl-iggelheim,1
+almonacid de toledo,1
+tiszavasvari,1
+bad orb,1
+hattiesburg,1
+poitiers,1
+csanytelek,1
+csepreg,1
+domsod,1
+playa del carmen,1
+vignola,1
+tordas,1
+hermannstadt,1
+szekelyhodos,1
+haverhill,1
+calatayud,1
+chislehurst,1
+mogyorosbanya,1
+mayrhofen,1
+gelu,1
+teramo,1
+homrogd,1
+ari,1
+leinfelden-echterdingen,1
+petofibanya,1
+hainsbach,1
+dannstadt,1
+mulheim am mosel,1
+korospatak,1
+petrila,1
+chivasso,1
+barway,1
+vitnyed,1
+pradamano,1
+stafford,1
+leutkirch im allgau,1
+borvely,1
+szod,1
+sariswil,1
+gura humorului,1
+charleroi,1
+schutterwald,1
+miami beach,1
+volos,1
+gerersdorf,1
+dornach,1
+kapuvar,1
+alsvaag,1
+wolfsburg,1
+valletta,1
+meilen,1
+san vincenzo,1
+alesund,1
+fegyvernek,1
+uzon,1
+borca,1
+masevaux,1
+oftringen,1
+megyaszo,1
+torrejon de ardoz,1
+bicaz,1
+corunca,1
+castiglione in teverina,1
+cisnadie,1
+faenza,1
+almancil,1
+sacueni,1
+norrhult,1
+salgotarjan,1
+targoviste,1
+al ain,1
+oure,1
+deszk,1
+resita,1
+alesd,1
+ulm,1
+myre,1
+olten,1
+voda dragos,1
+esztergom,1
+romerswil,1
+zakynthos,1
+ryde,1
+vertesszolos,1
+lorca,1
+le montellier,1
+solont,1
+moreni,1
+limasol,1
+targu ocna,1
+manching,1
+nottingham,1
+wilhelmshaven,1
+dammarie-le-lys,1
+ujiraz,1
+wittenbach,1
+inwil,1
+lunca de sus,1
+morareni,1
+emmingen-liptingen,1
+mosdos,1
+puspokhatvan,1
+n'djamena,1
+hoffenheim,1
+spittal an der drau,1
+doboz,1
+pantelimon,1
+fenyeslitke,1
+hebecrevon,1
+zau de cimpie,1
+magyarzsakod,1
+aichach,1
+glenridding,1
+blenheim,1
+strengelbach,1
+tenerife,1
+laredo,1
+carlisle,1
+mezoszemere,1
+szarvasko,1
+gheraesti,1
+geresdlak,1
+ammanford,1
+eggenfelden,1
+lefkosa,1
+gavardo,1
+williamsburg,1
+ouagadougou,1
+tamasi,1
+ramsbottom,1
+oberhausen,1
+treia,1
+san remo,1
+talmacel,1
+bischofsheim,1
+lemmer,1
+buitenkaag,1
+someren,1
+munchenreuth,1
+marculeni,1
+san francisco,1
+padola,1
+sona,1
+winterthur,1
+blankenburg,1
+jyvaskyla,1
+tintava,1
+abinger,1
+thessaloniki,1
+worb,1
+kiskunhalas,1
+ansbach,1
+dallas,1
+haliburton,1
+mysen,1
+marano di napoli,1
+lengyelfalva,1
+uzwil,1
+kapolnasnyek,1
+csomor,1
+koronka,1
+rogling,1
+niederbipp,1
+licata,1
+rio grande,1
+bovisio-masciago,1
+kalbach,1
+buch bei jenbach,1
+nyarsapat,1
+tavullia,1
+pakistan employees cooperative housing society,1
+congonhas,1
+rilland,1
+bochum,1
+asotthalom,1
+aschaffenburg,1
+dorking,1
+zermatt,1
+salon-de-provence,1
+burnham-on-sea,1
+drancy,1
+romano di lombardia,1
+leobersdorf,1
+darmstadt,1
+paty,1
+lorinci,1
+cassino,1
+egerag,1
+porto ercole,1
+toftlund,1
+columbia,1
+cala pass,1
+imecsfalva,1
+milton keynes,1
+melide,1
+wuppertal,1
+neagra,1
+nocelleto,1
+cenadu vechi,1
+egerszalok,1
+lauingen,1
+sanpetru mic,1
+stromsnasbruk,1
+gundelfingen,1
+ulies,1
+moudon,1
+thansuss,1
+vargyas,1
+leon,1
+barika,1
+roggwil,1
+la louviere,1
+costisa,1
+jupani,1
+vasarosnameny,1
+heerlen,1
+fort mcmurray,1
+peteri,1
+galautas-parau,1
+phoenix,1
+brooklyn,1
+rorbas,1
+orbaek,1
+kisapati,1
+hjo,1
+tapiobicske,1
+helesteni,1
+seefeld in tirol,1
+chianciano terme,1
+orkeny,1
+arlesheim,1
+gummer,1
+baciu,1
+worgl,1
+moosburg,1
+langenthal,1
+randers,1
+hollingbourne,1
+rotterdam,1
+callicoon,1
+ballina,1
+vamosszabadi,1
+lyon,1
+ujfeherto,1
+hurghada,1
+vulcan,1
+rye,1
+civitavecchia,1
+montfoort,1
+sora,1
+soria,1
+peiss,1
+cristesti,1
+mattighofen,1
+torokbalint,1
+lupu,1
+subingen,1
+tucson,1
+sanfre,1
+riverside,1
+rehovot,1
+heppenheim,1
+tokodaltaro,1
+leamington spa,1
+sarpsborg,1
+moosburg an der isar,1
+olari,1
+royal tunbridge wells,1
+montreal,1
+riedenburg,1
+perbal,1
+sulina,1
+kingston upon hull,1
+dombovar,1
+gyulakuta,1
+connaux,1
+kreut,1
+`ein harod,1
+felixdorf,1
+iernuteni,1
+alattyan,1
+glodeni,1
+scuol,1
+kaszonfeltiz,1
+beloiannisz,1
+venice,1
+lefkada,1
+arpino,1
+szakaly,1
+bucchianico,1
+bassano romano,1
+windsor,1
+balance,1
+apagy,1
+batos,1
+apex,1
+balatonfenyves,1
+weissach,1
+ville de port-au-prince,1
+giroc,1
+frascati,1
+eislingen-fils,1
+san ambrogio di torino,1
+peterborough,1
+sutton,1
+fuzesabony,1
+sinnicolaul mare,1
+oxie,1
+karad,1
+ketegyhaza,1
+alcaniz,1
+lieser,1
+schwadorf,1
+vaxjo,1
+szarvas,1
+mora,1
+călimănești,1
+leverkusen,1
+kup,1
+wartenburg (kemberg),1
+luddington,1
+arpasel,1
+matera,1
+canicattini,1
+godemesterhaza,1
+greenwich,1
+dulmen,1
+glarus,1
+federal way,1
+la spezia,1
+chichester,1
+fahrwangen,1
+weinheim,1
+roszke,1
+bekes,1
+birkenhead,1
+winden am aign,1
+ivrea,1
+valea mica,1
+giglio porto,1
+corfu,1
+monemvasia,1
+kirchberg,1
+gijon,1
+sinnicolau mare,1
+buhl,1
+orbottyan,1
+lisbon,1
+busto arsizio,1
+kebalan-daya,1
+thorne,1
+aszod,1
+north atlanta,1
+wokingham,1
+vep,1
+igar,1
+wetzlar,1
+chiheru de sus,1
+gugesti,1
+attiswil,1
+schlusslberg,1
+doha,1
+toszeg,1
+hegyeshalom,1
+zsombo,1
+san martino di lupari,1
+ceva,1
+saskatoon,1
+inarcs,1
+hallbergmoos,1
+limburg,1
+cranleigh,1
+mopa,1
+vimmerby,1
+aholming,1
+freilassing,1
+neunkirchen,1
+obergurgl,1
+esher,1
+harta,1
+csenye,1
+ugod,1
+latrany,1
+karlsruhe,1
+mehkerek,1
+bretten,1
+detroit,1
+voivozi,1
+plzen,1
+burton upon trent,1
+berg,1
+zalaszentgrot,1
+binsfeld,1
+torino,1
+sorano,1
+sarospatak,1
+crotone,1
+balatonlelle,1
+meresti,1
+celldomolk,1
+nagydorog,1
+scalea,1
+kisnana,1
+biborțeni,1
+pilisborosjeno,1
+santa cruz de tenerife,1
+auckland,1
+tapioszentmarton,1
+putnok,1
+kakucs,1
+kezdi almas,1
+lugoj,1
+kisjakabfalva,1
+casciana terme,1
+ganderkesee,1
+chesterfield,1
+garrel,1
+varese,1
+new alresford,1
+hajduboszormeny,1
+lourdes,1
+tokol,1
+arbon,1
+speyer,1
+fondi,1
+savinesti,1
+arolsen,1
+petah tiqwa,1
+city of brussels,1
+diakovce,1
+kina,1
+tolosa,1
+carrara,1
+alexandria,1
+sprang-capelle,1
+neuendettelsau,1
+grintiesu mic,1
+erfurt,1
+bala,1
+tetbury,1
+norton,1
+pisa,1
+pinerolo,1
+edgware,1
+paulesti,1
+los navalucillos,1
+sannicolaul-de-munte,1
+bellwald,1
+ely,1
+chamonix-mont-blanc,1
+melbourne,1
+wembley,1
+moreton in marsh,1
+mera,1
+inverness,1
+boario terme,1
+portsmouth,1
+san sebastian,1
+nemesvamos,1
+citta della pieve,1
+bangkok,1
+nykobing mors,1
+haste,1
+freising,1
+ilieni,1
+cehu silvaniei,1
+knutwil,1
+huesca del comun,1
+paradise falls,1
+simbach,1
+haro,1
+bovrup,1
+rastolita,1
+hezeris,1
+tiszafoldvar,1
+reno,1
+feldkirchen-westerham,1
+viareggio,1
+adjudeni,1
+zsambek,1
+chartres,1
+strejesti,1
+cebu city,1
+oldenburg,1
+morden,1
+steinfeld,1
+kano,1
+viterbo,1
+lodi,1
+saint-christol,1
+london borough of camden,1
+cristolt,1
+migliarino,1
+laszlopuszta,1
+bedford,1
+soest,1
+falciu,1
+rennes,1
+castellamonte,1
+gallspach,1
+suhl,1
+aalestrup,1
+belgrade,1
+caravaca,1
+boheimkirchen,1
+grevenbroich,1
+kernen,1
+kaszonuifalu,1
+cairo,1
+busteni,1
+luton,1
+seelze,1
+oberstdorf,1
+piraeus,1
+ginosa,1
+mizil,1
+senden,1
+angelholm,1
+sortland,1
+nurtingen,1
+spaichingen,1
+nantes,1
+sausa,1
+ciorani,1
+afumati,1
+kartal,1
+pasareni,1
+passau,1
+piacenza,1
+livorn,1
+kilmarnock,1
+cannes,1
+kadarkut,1
+matsumoto,1
+chalgrove,1
+tamasu,1
+hagen,1
+rio de janeiro,1
+alvesta,1
+azzano decimo,1
+michelstadt,1
+curtea de arges,1
+slough,1
+gelting,1
+many,1
+ariano irpino,1
+southminster,1
+szentdemeter,1
+aranjuez,1
+belvedere marittimo,1
+arborfield,1
+emmenbrucke,1
+leordeni,1
+mantovana,1
+gentbrugge,1
+gyonk,1
+berettyoujfalu,1
+straubing,1
+traisen,1
+flieden,1
+petersaurach,1
+predeal,1
+hartberg,1
+paranaque,1
+randaberg,1
+lakewood,1
+cortegana,1
+gothenburg,1
+sumeg,1
+reims,1
+pusztacsalad,1
+fort collins,1
+key west,1
+rubiera,1
+valeggio sul mincio,1
+codogno,1
+jersey,1
+barsinghausen,1
+taborfalva,1
+torokszentmiklos,1
+rignano garganico,1
+hoghiz,1
+haltingen,1
+nagyszekely,1
+granadilla de abona,1
+parsberg,1
+bad fussing,1
+ozora,1
+flums,1
+palestrina,1
+auron,1
+cugir,1
+varatec,1
+bilboa,1
+abasfalva,1
+liteni,1
+sarmasul,1
+formigine,1
+perth,1
+marbella,1
+vaughan,1
+huntington beach,1
+holzwickede,1
+fulda,1
+nagymaros,1
+nashville,1
+newton,1
+schorndorf,1
+sercaia,1
+fredericksburg,1
+tura,1
+godega sant urbano,1
+aubagne,1
+faringdon,1
+kristianstad,1
+kaskantyu,1
+predappio alta,1
+capilnita,1
+evansville,1
+grecia,1
+koszegszerdahely,1
+de haan,1
+diessenhofen,1
+auboue,1
+linden,1
+emod,1
+ostseebad binz,1
+kereki,1
+beremend,1
+bingen,1
+tirgu jiu,1
+staffelstein,1
+nyim,1
+schonholzerswilen,1
+ochsenfurt,1
+kotormany,1
+mindelheim,1
+hombrechtikon,1
+ecsed,1
+palamunai,1
+baks,1
+szentharomsag,1
+buk,1
+newbridge,1
+grand rapids,1
+auw,1
+abda,1
+pestere,1
+kula,1
+escalona del prado,1
+cento,1
+barcs,1
+falciu tirg,1
+miami,1
+tasnad,1
+amriswil,1
+russi,1
+vertesboglar,1
+csakvar,1
+ujtikos,1
+saint-brieuc,1
+alsvag,1
+honefoss,1
+grindsted municipality,1
+bylderup-bov,1
+gernlinden,1
+franceville,1
+nicosia,1
+kemer,1
+narnia,1
+budbud,1
+hosman,1
+vetca,1
